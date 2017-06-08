@@ -29,3 +29,9 @@ function render() {
     game.debug.pointer(game.input.pointer6);
 
 }
+
+
+//reference
+https://phaser.io/examples/v2/input/multi-touch
+
+//github.com/photonstorm/phaser-examples/blob/master/examples/input/multi touch.js
