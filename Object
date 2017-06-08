@@ -4,7 +4,7 @@
 //how to declare and initialize object?
 
 1)
-var grades = {'egoing': 10, 'k8805': 6, 'sorialgi': 80}; 
+var grades = {'height': 178, 'weight': 71}; 
 //object is similar to array. It can have word or numbers as an index(key). However, it has no order.
 
 2)
@@ -46,3 +46,8 @@ for(key in grades){
                   //min
 
 
+
+/*
+<reference>
+https://opentutorials.org/
+*/
